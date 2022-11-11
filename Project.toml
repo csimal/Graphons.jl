@@ -10,6 +10,7 @@ Quadrature = "67601950-bd08-11e9-3c89-fd23fb4432d2"
 RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
 
 [compat]
+ApproxFun = "0.13"
 julia = "1"
 
 [extras]
